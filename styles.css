@@ -13,7 +13,7 @@ body {
 .hero img {
 	width: 65%;
 	height: 100vh;
-	object-fit: center;
+	object-fit: cover;
 }
 
 .content {
